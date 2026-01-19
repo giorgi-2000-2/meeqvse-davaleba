@@ -1,7 +1,7 @@
 package org.example;
 
 import net.datafaker.Faker;
-public class TestBankAccount {
+ class TestBankAccount {
     private double balance;
 
     public TestBankAccount(double balance) {
